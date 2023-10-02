@@ -1,5 +1,4 @@
-"EDA 16 Explore the impact of a guest's booking history on their likelihood of cancelling a current booking.
-Calculate cancellation rates based on previous cancellations and noncanceled bookings",,,,,
+EDA 16 Understand the distribution of reserved and assigned room types. Calculate summary statistics for the consistency between reserved and assigned room types.,,,,,
 reserved_room_type,assigned_room_type,count,,consistency,count
 A,A,73598,,Consistent,104473
 D,D,17736,,Inconsistent,14917

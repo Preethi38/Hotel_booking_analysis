@@ -1,5 +1,4 @@
-"EDA 21 .Understand the distribution of reservation statuses and calculate summary statistics for reservation
-status dates.",,,,,,,
+"EDA 21 .Analyze trends in reservation status dates, including the most common checkout dates and any seasonality patterns.",,,,,,,
 reservation_status_date,reservation_status,,checkout_date,checkout_count,,month,status_count
 01-07-2015,Check-Out,,08-12-2015,243,,1,10681
 01-07-2015,Check-Out,,26-06-2016,228,,2,9498

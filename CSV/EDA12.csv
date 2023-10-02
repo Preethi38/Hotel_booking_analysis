@@ -1,5 +1,4 @@
-"EDA 12 Compare the distribution of meal plans among different customer types (e.g., Transient, Group) to
-identify preferences.",,,
+EDA 12 Understand the distribution of bookings across different market segments and calculate summary statistics for lead times within each segment.,,,
 market_segment,market_segment_id,avg_lead_time,std_dev_lead_time
 Direct,1,49.86,70.12
 Corporate,2,22.13,37.43

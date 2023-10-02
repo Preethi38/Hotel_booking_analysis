@@ -1,5 +1,4 @@
-"EDA 13 Understand the distribution of bookings across different market segments and calculate summary
-statistics for lead times within each segment",,,
+"EDA 13 Analyze the distribution of bookings through different booking channels (e.g., online travel agents, direct bookings) and calculate the percentage of bookings through each channel.",,,
 distribution_channel,distribution_channel_id,booking_count,booking_percentage
 TA/TO,3,97870,81.97504
 Direct,1,14645,12.26652

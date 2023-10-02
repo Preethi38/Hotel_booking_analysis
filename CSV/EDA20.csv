@@ -1,5 +1,4 @@
-"EDA 20 .Examine whether guests who make multiple bookings have consistent room type preferences or if
-their preferences change over time.",,,,,
+EDA 20 Understand the distribution of reservation statuses and calculate summary statistics for reservation status dates.,,,,,
 reservation_status,status_count,,reservation_status,Earliar_date,Most_recent_date
 Check-Out,75166,,Check-Out,01-07-2015,14-09-2017
 Canceled,43017,,Canceled,17-10-2014,26-08-2017

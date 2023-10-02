@@ -1,5 +1,4 @@
-"EDA 14 Analyze the distribution of bookings through different booking channels (e.g., online travel agents,
-direct bookings) and calculate the percentage of bookings through each channel.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+EDA 14 Calculate the proportion of repeated guests and investigate their booking behavior. Identify any patterns or differences in preferences compared to firsttime guests.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 distribution_channel,distribution_channel_id,market_segment,market_segment_id,meal,required_car_parking_spaces,total_of_special_requests,is_repeated_guest,reserved_room_type,assigned_room_type,is_repeated_guest,avg_lead_time,,distribution_channel,distribution_channel_id,is_repeated_guest,count(*),,is_repeated_guest,guest_count,,meal,required_car_parking_spaces,total_of_special_requests,is_repeated_guest,count(*),,reserved_room_type,assigned_room_type,is_repeated_guest,count(*)
 Direct,1,Direct,1,BB,0,0,0,C,C,0,59.3942,,Direct,1,0,13708,,0,115580,,BB,0,0,0,50571,,A,A,0,71473
 Direct,1,Direct,1,BB,0,0,0,A,C,0,23.5926,,Corporate,2,0,5105,,1,3810,,BB,0,1,0,21915,,D,D,0,17429
