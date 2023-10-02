@@ -1,0 +1,8 @@
+"EDA 13 Understand the distribution of bookings across different market segments and calculate summary
+statistics for lead times within each segment",,,
+distribution_channel,distribution_channel_id,booking_count,booking_percentage
+TA/TO,3,97870,81.97504
+Direct,1,14645,12.26652
+Corporate,2,6677,5.5926
+GDS,5,193,0.16166
+Undefined,4,5,0.00419

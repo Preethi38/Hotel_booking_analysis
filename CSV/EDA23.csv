@@ -1,0 +1,5 @@
+"EDA 23 Investigate whether there are differences in Average Daily Rates (ADR) based on reservation status (e.g., cancelled vs. checked out).",
+reservation_status,avg_adr
+Check-Out,99.98
+Canceled,105.21
+No-Show,96.37

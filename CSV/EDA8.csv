@@ -1,0 +1,6 @@
+"EDA 8 Compare the total number of special requests made by different customer types (e.g., Transient, Group) and identify which customer type makes more requests.",
+customer_type,total_special_requests
+Transient,56598
+Transient-Party,8274
+Contract,2971
+Group,372

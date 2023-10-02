@@ -1,0 +1,6 @@
+"EDA 15 Calculate the proportion of repeated guests and investigate their booking behaviour. Identify any
+patterns or differences in preferences compared to first-time guests.",,,,
+booking_history_category,total_bookings,total_cancellations,total_non_canceled,cancellation_rate
+1-2 Previous Cancellations,6167,6283,415,93.27063
+3 or More Previous Cancellations,317,4118,127,59.93691
+No Previous Cancellations,112906,0,74624,33.90608

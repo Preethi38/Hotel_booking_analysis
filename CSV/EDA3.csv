@@ -1,0 +1,7 @@
+EDA 3 Calculate the average length of stays for different hotel types and explore variations by meal plans.,,,,,
+hotel,avg_length_of_stays,,meal,avg_length_of_stays,
+Resort Hotel,4.3185,,HB,4.3352,
+City Hotel,2.9781,,Undefined,4.2678,
+,,,FB,3.9962,
+,,,BB,3.3274,
+,,,SC,2.9317,

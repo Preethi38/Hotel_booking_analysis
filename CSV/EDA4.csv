@@ -1,0 +1,5 @@
+"EDA 4 Analyze how booking patterns have evolved over the years, including year-over-year changes in bookings and cancellations.",,,,,,,,,,
+arrival_date_year,total_bookings,total_cancellations,,current_year,current_year_bookings,current_year_cancellations,previous_year_bookings,previous_year_cancellations,booking_change_percentage,cancellation_change_percentage
+2015,21996,8142,,2015,21996,8142,NULL,NULL,NULL,NULL
+2016,56707,20337,,2016,56707,20337,21996,8142,1.5781,1.4978
+2017,40687,15745,,2017,40687,15745,56707,20337,-0.2825,-0.2258

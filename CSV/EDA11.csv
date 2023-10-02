@@ -1,0 +1,27 @@
+"EDA 11 Investigate the distribution of required car parking spaces and special requests by hotel type and meal plan. 12 .Compare the distribution of meal plans among different customer types (e.g., Transient, Group) to identify preferences.",,,,,,,,,
+hotel,meal,required_car_parking_spaces,total_special_requests,guest_count,,,customer_type,meal,guest_count
+City Hotel,BB,0,31155,60719,,,Contract,BB,3260
+City Hotel,BB,1,1526,1582,,,Contract,FB,5
+City Hotel,BB,2,4,3,,,Contract,HB,613
+City Hotel,BB,3,0,1,,,Contract,SC,183
+City Hotel,FB,0,8,42,,,Contract,Undefined,15
+City Hotel,FB,1,4,2,,,Group,BB,499
+City Hotel,HB,0,2644,6308,,,Group,FB,1
+City Hotel,HB,1,132,109,,,Group,HB,36
+City Hotel,SC,0,7688,10335,,,Group,SC,39
+City Hotel,SC,1,224,228,,,Group,Undefined,2
+City Hotel,SC,3,2,1,,,Transient,BB,70692
+Resort Hotel,BB,0,16232,25482,,,Transient,FB,547
+Resort Hotel,BB,1,3247,4502,,,Transient,HB,8020
+Resort Hotel,BB,2,15,20,,,Transient,SC,9968
+Resort Hotel,BB,3,0,1,,,Transient,Undefined,386
+Resort Hotel,FB,0,120,701,,,Transient-Party,BB,17859
+Resort Hotel,FB,1,54,53,,,Transient-Party,FB,245
+Resort Hotel,HB,0,4019,7186,,,Transient-Party,HB,5794
+Resort Hotel,HB,1,888,853,,,Transient-Party,SC,460
+Resort Hotel,HB,2,8,5,,,Transient-Party,Undefined,766
+Resort Hotel,HB,8,1,2,,,,,
+Resort Hotel,SC,0,33,76,,,,,
+Resort Hotel,SC,1,5,10,,,,,
+Resort Hotel,Undefined,0,171,1125,,,,,
+Resort Hotel,Undefined,1,35,44,,,,,

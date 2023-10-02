@@ -1,0 +1,5 @@
+"EDA 5 Understand the distribution of the number of adults, children, and babies and identify any outliers.",,,,,,,
+attribute,unique_values,total_adults,mean,std_dev,max,min,mode
+adults,14,221627,1.86,0.58,55,0,2
+children,5,12403,0.1,0.4,10,0,0
+babies,5,949,0.01,0.1,10,0,0

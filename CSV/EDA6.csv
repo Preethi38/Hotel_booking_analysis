@@ -1,0 +1,5 @@
+"EDA 6 Calculate summary statistics for ADR and explore differences between Resort Hotel and City Hotel
+bookings.",,,,
+hotel,avg_adr,std_dev_adr,min_adr,max_adr
+Resort Hotel,94.9496,61.44956899,-6,508
+City Hotel,105.2994,43.59976964,0,5400
